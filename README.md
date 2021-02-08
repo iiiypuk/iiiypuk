@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on:
+- 🔭 I’m currently working on:  
 `Delver RU translation` `minecraft-launcher`
 - 🌱 I’m currently learning: `React` `.NET 5`
 - 👯 I’m looking to collaborate on: `Solar2D`
