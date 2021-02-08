@@ -12,3 +12,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about: `olr_steam `
 - ⚡ Fun fact: `Life in Russia`
+- 🩸 Support on [Ko-Fi](http://ko-fi.com/iiiypuk)
