@@ -1,9 +1,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiypuk&hide=javascript,html&theme=dracula&layout=compact&langs_count=9" align="right">
 
-Меня зовут Александр и я пишу различные скрипты на Python.  
-В тайне разрабатываю компьютерные игры.
-
-Here are some ideas to get you started:
+I' im Alexander. I like video games and drawing.
 
 - 🔭 I’m currently working on:  
 `Delver RU translation` `minecraft-launcher`
