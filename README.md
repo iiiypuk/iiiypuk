@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iiiypuk&hide=javascript,html&theme=dracula&layout=compact&langs_count=9" align="right">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=iiiypuk&layout=compact&langs_count=5&hide=html&theme=dark" align="right">
 
 I' im Alexander. I like video games and drawing.
 
